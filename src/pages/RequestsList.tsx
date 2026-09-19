@@ -44,7 +44,7 @@ export default function RequestsList() {
         <div className="sticky top-6 max-h-[calc(100vh-3rem)] overflow-y-auto rounded-2xl border border-ink/10 bg-paper p-6 shadow-lg">
           <div className="mb-4 flex items-start justify-between gap-4">
             <h2 className="text-lg font-bold tracking-tight">Activity {detail.activity.activity_id}</h2>
-            <Button variant="ghost" size="sm" className="h-8 w-8 p-0" onClick={() => setDetailId(null)}>
+            <Button aria-label="Close details" variant="ghost" size="sm" className="h-8 w-8 p-0" onClick={() => setDetailId(null)}>
               <X className="h-4 w-4" />
             </Button>
           </div>
