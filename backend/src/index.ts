@@ -21,7 +21,7 @@ app.use(express.json({ limit: "20mb" }));
 
 app.use("/api/requests", requestsRouter);
 app.use("/api/schedule", scheduleRouter);
-app.use("/api/ps1", ps1Router);
+// app.use("/api/ps1", ps1Router);
 app.use("/api", optimiseRouter);
 app.use("/api/dashboard", dashboardRouter);
 app.use("/api/crews", crewsRouter);
