@@ -1,0 +1,19 @@
+contract_number,contract_description,contract_award_date,activity_type,nature_of_activity,contract_priority,contract_completion_date,planned_completion_date,number_of_workfronts,access_type,number_of_maximum_access_per_week
+T001,Synthetic renewal package 1,2026-11-02,Renewal,Non-live (Consist),1,2027-10-10,2027-09-19,1,PM,2
+T002,Synthetic construction package 2,2026-11-02,Construction,Non-live (Others),2,2027-11-14,2027-10-24,2,PC,3
+T003,Synthetic renewal package 3,2026-11-02,Renewal,Non-live (Consist),3,2027-12-19,2027-11-28,1,C,4
+T004,Synthetic construction package 4,2026-11-02,Construction,Non-live (Others),1,2027-10-17,2027-09-26,2,PM,2
+T005,Synthetic renewal package 5,2026-11-02,Renewal,Live,2,2027-11-21,2027-10-31,1,PC,2
+T006,Synthetic construction package 6,2026-11-02,Construction,Non-live (Others),3,2027-12-26,2027-12-05,2,C,4
+T007,Synthetic renewal package 7,2026-11-02,Renewal,Non-live (Consist),1,2027-10-24,2027-10-03,1,PM,2
+T008,Synthetic construction package 8,2026-11-02,Construction,Non-live (Others),2,2027-11-28,2027-11-07,2,PC,3
+T009,Synthetic renewal package 9,2026-11-02,Renewal,Non-live (Consist),3,2028-01-02,2027-12-12,1,C,4
+T010,Synthetic construction package 10,2026-11-02,Construction,Non-live (Others),1,2027-10-31,2027-10-10,2,PM,2
+T011,Synthetic renewal package 11,2026-11-02,Renewal,Live,2,2027-12-05,2027-11-14,1,PC,2
+T012,Synthetic construction package 12,2026-11-02,Construction,Non-live (Others),3,2028-01-09,2027-12-19,2,C,4
+T013,Synthetic renewal package 13,2026-11-02,Renewal,Non-live (Consist),1,2027-11-07,2027-10-17,1,PM,2
+T014,Synthetic construction package 14,2026-11-02,Construction,Non-live (Others),2,2027-12-12,2027-11-21,2,PC,3
+T015,Synthetic renewal package 15,2026-11-02,Renewal,Non-live (Consist),3,2027-10-10,2027-09-19,1,C,4
+T016,Synthetic construction package 16,2026-11-02,Construction,Non-live (Others),1,2027-11-14,2027-10-24,2,PM,2
+T017,Synthetic renewal package 17,2026-11-02,Renewal,Live,2,2027-12-19,2027-11-28,1,PC,2
+T018,Synthetic construction package 18,2026-11-02,Construction,Non-live (Others),3,2027-10-17,2027-09-26,2,C,4
