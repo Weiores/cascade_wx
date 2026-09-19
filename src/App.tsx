@@ -14,7 +14,7 @@ import MaintenanceMap from "./pages/MaintenanceMap";
 
 export default function App() {
   return (
-    <PlanningProvider><Routes>
+    <Routes>
       <Route path="/" element={<Landing />} />
       <Route path="/login" element={<Login />} />
       <Route element={<PlanningProvider><Layout /></PlanningProvider>}>
@@ -27,6 +27,6 @@ export default function App() {
         <Route path="/app/map" element={<MaintenanceMap />} />
         <Route path="/app/ps1" element={<PS1Planner />} />
       </Route>
-    </Routes></PlanningProvider>
+    </Routes>
   );
 }
